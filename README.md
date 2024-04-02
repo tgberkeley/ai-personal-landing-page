@@ -37,3 +37,22 @@ Test that the install was successful by creating your project:
 reflex init
 reflex run
 ```
+
+
+## 🥳 5. Deploy the application
+
+Host the application with reflex.
+
+```bash
+reflex deploy
+```
+
+Make sure to add the environment variables.
+
+```bash
+env-1 name = OPENAI_API_KEY
+env-1 value = XXX (no quotes)
+
+env-2 name = ASSISTANT_ID
+env-2 value = YYY (no quotes)
+```
