@@ -6,7 +6,7 @@ This app links up to the OpenAI Assistants API that allows you to have a ChatGPT
 ### 🧬 1. Clone the Repo
 
 ```bash
-git clone https://github.com/reflex-dev/reflex-chat.git
+git clone https://github.com/tgberkeley/ai-personal-landing-page.git
 ```
 
 
